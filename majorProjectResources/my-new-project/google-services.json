@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219344864428",
+    "project_id": "prescriptionrecognition",
+    "storage_bucket": "prescriptionrecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219344864428:android:7b8af96342356637430b09",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219344864428-jb1080djepkss7d5bt89s8f7kues29s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCostTjY8pFItbViUEUyn5zVtc1O5qbRCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219344864428-jb1080djepkss7d5bt89s8f7kues29s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
